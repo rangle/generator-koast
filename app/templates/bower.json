@@ -1,0 +1,16 @@
+{
+  "name": "myApp",
+  "version": "0.0.0",
+  "authors": [
+    "Someone at rangle.io"
+  ],
+  "license": "private",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "client/components-bower"
+  ],
+  "dependencies": {
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "<%= packageName %>",
+  "version": "0.0.1",
+  "description": "A full stack Angular-Koast app",
+  "main": "server/app.js",
+  "author": "rangle.io",
+  "license": "commercial"
+}
